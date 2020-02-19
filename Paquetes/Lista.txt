@@ -1,0 +1,5 @@
+Primer nombre, Primer Apellido, Edad
+Johan, Gomez, 20
+Nicolas, Segura, 28
+Daniel, Romero, 23
+Michael, Rodriguez, 19
